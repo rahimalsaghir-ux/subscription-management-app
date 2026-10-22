@@ -44,3 +44,10 @@ app-example
 .env
 .env.*
 !.env.example
+# Local IDE settings
+.idea/
+
+# Local AI tool configuration
+.claude/
+
+.vscode/
